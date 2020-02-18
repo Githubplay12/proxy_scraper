@@ -1,2 +1,2 @@
 # proxy_scraper
-A quick python proxy scraper with request and beautifulsoup
+Python proxy scraper with request and beautifulsoup
